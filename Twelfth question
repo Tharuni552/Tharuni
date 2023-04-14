@@ -1,0 +1,8 @@
+r = 206
+v = 122
+if v >> r:
+   print("v is greater than r")
+elif r == v:
+   print("v and r are equal")
+else:
+   print("v is less than r")
